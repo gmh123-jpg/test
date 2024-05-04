@@ -1,5 +1,3 @@
 git add .
-git status
 git commit -m "updata"
-git status
-git push  origin main
+git push origin main
